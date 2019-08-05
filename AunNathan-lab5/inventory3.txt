@@ -1,0 +1,6 @@
+Mountain Bike,   Model 47d3,  $400, $1000,   orange,   5, 15-77, Advanced, 15
+Road Bike,   Model X230,  $600,    $2000,   black,   5, 5-13, 20, 10.5
+Mountain Bike,   Model 007c,  $300,    $800,    black,   3, 20-56, Beginner, 19
+Road Bike,   Model 878s,  $300,    $800,    red,   6, 12-19, 20, 19.2
+City Bike,   Model 45z6,  $400,    $1000,   pink, 7, 15-85, 2, Dutch
+City Bike,   Model 634d,  $200,    $800,    blue, 2, 15-60, 4, Dutch

@@ -1,0 +1,9 @@
+Road Bike, Model X230, black, 2
+Road Bike, Model 32x0, green, 4
+Mountain Bike, Model 47d3, orange, 2
+Mountain Bike, Model 007c, black, 6
+City Bike, Model 45z6, pink, 3
+City Bike, Model 634d, blue, 6
+Road Bike, Model X230, black, 1
+City Bike, Model 45z6, pink, 3
+City Bike, Model 634d, blue, 3

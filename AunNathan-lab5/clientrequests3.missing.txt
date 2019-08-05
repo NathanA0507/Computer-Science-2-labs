@@ -1,0 +1,3 @@
+Mountain Bike, Model 007c, black, amount missing: 3
+City Bike, Model 634d, blue, amount missing: 4
+City Bike, Model 634d, blue, amount missing: 3
